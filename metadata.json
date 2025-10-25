@@ -1,0 +1,5 @@
+{
+  "name": "LE BON VENDEUR IMMO",
+  "description": "Une application immobilière moderne qui permet aux propriétaires et aux agents de lister des propriétés à vendre. Elle dispose d'un tableau de bord intuitif pour suivre les performances des propriétés, y compris les vues et les mentions 'j'aime'. L'application est améliorée avec l'IA Gemini, permettant aux utilisateurs de modifier les images des propriétés et de générer des vidéos promotionnelles à l'aide de prompts textuels.",
+  "requestFramePermissions": []
+}
